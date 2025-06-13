@@ -69,14 +69,7 @@ pip install opencv-python mediapipe pyautogui
 
 ## 🙋‍♂️ Author
 
-This project was created by **\punuvinu2000 ** – feel free to connect or contribute!
+This project was created by \punuvinu2000  – feel free to connect or contribute!
 
 
 
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
-
-```
-Let me know if you'd like a Sinhala version or want to convert this to a website or PDF format for presenting your project elsewhere!
-```
