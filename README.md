@@ -2,8 +2,7 @@
 
 This Python project allows you to control your computer mouse using just your fingers and a webcam! By using computer vision and hand tracking, you can move the mouse and click without touching any hardware.
 
-https://user-images.githubusercontent.com/own_mose2.0.mp4
-
+https://user-images.githubusercontent.com/your-demo-video.mp4 *(Add a demo if you have one)*
 
 ## 🚀 Features
 
