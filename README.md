@@ -67,11 +67,3 @@ pip install opencv-python mediapipe pyautogui
 * Ensure your webcam is properly positioned.
 * You can adjust the click sensitivity in the code by changing the distance threshold (currently `20` pixels).
 
-
-
-## 🙋‍♂️ Author
-
-This project was created by \punuvinu2000  – feel free to connect or contribute!
-
-
-
